@@ -161,7 +161,7 @@
 
 
           <div class="tool-card">
-    <a href="img-compress.html" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="/Tool/img-compress.html" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="https://seeklogo.com/images/Q/quotex-io-logo-431725D9D9-seeklogo.com.png" alt="QUOTEX Logo">
         <h3>QUOTEX</h3>
         <p>Compress images without losing quality. Perfect for web use.</p>
